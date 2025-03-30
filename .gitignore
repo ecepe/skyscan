@@ -1,0 +1,6 @@
+# Ignore all dotfiles
+.*
+
+# But NOT these
+!.gitignore
+!.github/
