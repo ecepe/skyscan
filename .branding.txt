@@ -1,0 +1,20 @@
+Color Palette
+Name	Hex Code	Usage
+Sky Blue	#3ABEFF	Primary
+Deep Blue	#003F5C	Headers, CTAs
+Cloud Gray	#E3E8EF	Background
+Accent Orange	#FF9500	Alerts/Icons
+
+
+Font Choice
+Use Poppins or Inter (both free via Google Fonts).
+
+Clean, modern, works great for both body text and headings.
+
+
+Favicon / Open Graph Preview
+Since I couldn’t generate images, I suggest using:
+
+A cloud + radar icon from FontAwesome or Feather Icons
+
+Create a simple Open Graph banner using Canva with your colors + tagline.
